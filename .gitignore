@@ -3,3 +3,12 @@
 ################################################################################
 
 *.dll
+*.pdb
+/Framework/bin/Debug
+/Framework/bin/Debug/Framework.pdb
+*.cache
+*.txt
+*.cache
+*.txt
+*.cache
+*.txt
